@@ -7,6 +7,7 @@ We will be dividing our development into 3 phases. All our planned features will
 
 ### Phase 1
 - [ ] Account creation and Social login
+- [ ] User verification
 - [ ] Manual insertion and management of transactions
 - [ ] Simple one click reporting with graphs and piecharts
 - [ ] Available in multiple languages
@@ -15,6 +16,7 @@ We will be dividing our development into 3 phases. All our planned features will
 ### Phase 2
 - [ ] Bulk upload
 - [ ] Weekly summary available through e-mail
+- [ ] Bank account setup
 - [ ] Can automatically sync your transactions
 
 ### Phase 3
