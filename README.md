@@ -1,17 +1,25 @@
 # Bayan app
 Bayan is an open source personal finance software, developed by the Mongolian Techies community.
-
 You can read more about the purpose of Bayan in the documentation.
+
 ## Main features
-- Cross-platform
-- Insertion and management of transactions
-- Ability to organise transactions using tags
-- Reminders for recurring bills and deposits
-- Simple one click reporting with graphs and piecharts
-- Available in multiple languages
-- International language support
-- Weekly summary available through e-mail
-- Can automatically sync your transactions
+We will be dividing our development into 3 phases. All our planned features will be completed in this order.
+
+### Phase 1
+- [ ] Account creation and Social login
+- [ ] Manual insertion and management of transactions
+- [ ] Simple one click reporting with graphs and piecharts
+- [ ] Available in multiple languages
+- [ ] International language support
+
+### Phase 2
+- [ ] Bulk upload
+- [ ] Weekly summary available through e-mail
+- [ ] Can automatically sync your transactions
+
+### Phase 3
+- [ ] Ability to organise transactions using tags
+- [ ] Reminders for recurring bills and deposits
 
 ## Getting started
 - Clone the repository 
