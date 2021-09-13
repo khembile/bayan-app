@@ -1,6 +1,6 @@
 # Bayan app
 Bayan is an open source personal finance software, developed by the Mongolian Techies community.
-You can read more about the purpose of Bayan in the documentation.
+You can read more about the purpose of Bayan in the [documentation](https://whimsical.com/bayan-app-MZYDr19fDtmk8s9EE7jHsE).
 
 ## Main features
 We will be dividing our development into 3 phases. All our planned features will be completed in this order.
